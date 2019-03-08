@@ -2,6 +2,8 @@
 Submission for the first programming assignment for EE 298-Z
 
 # Results
+It can be observed that for an implementation of 3 layers for both MLP and CNN, the CNN implementation outperforms the MLP implementation.
+
 ## Best Performance for MLP Implementation
 `Epoch 96/100, 25.37 s loss: 1.1713  -  acc: 0.5951  -  val_loss: 1.2814  -  val_acc: 0.5607`
 
